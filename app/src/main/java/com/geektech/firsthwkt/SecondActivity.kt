@@ -13,7 +13,6 @@ class SecondActivity : AppCompatActivity() {
     lateinit var value: String
     private val EXTRA_VALUE = "value"
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
@@ -36,7 +35,6 @@ class SecondActivity : AppCompatActivity() {
             finish()
         } else {
             toast(this,"Поле не может быть пустым")
-
         }
     }
 }
