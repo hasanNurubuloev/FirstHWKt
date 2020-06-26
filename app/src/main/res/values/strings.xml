@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstHWKt</string>
+    <string name="safe">Сохранить</string>
+    <string name="first_activity">1 окно</string>
+    <string name="second_activity">2 окно</string>
+</resources>
